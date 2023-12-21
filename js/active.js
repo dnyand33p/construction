@@ -4,7 +4,7 @@
     // jquery document ready function
     jQuery(document).on('ready', function() {
 
-        function imran_constructo_js() {
+       async function imran_constructo_js() {
             // constructo variable
             var windowS = $(window),
                 windowH = windowS.height(),
